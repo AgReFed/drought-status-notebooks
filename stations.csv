@@ -1,0 +1,60 @@
+Sites,Weather Station,Zones,Wheat price ($/t),Regions,Input cost without N ($/ha),Zonal names,Latitude,Longitude
+Goondiwindi,41038,2,238,1,216.4,NSW NE/QLD SE,-28.55,150.31
+Meandarra,42022,2,238,1,216.4,NSW NE/QLD SE,-27.33,149.88
+Dalby,41023,2,238,1,216.4,NSW NE/QLD SE,-27.18,151.26
+Roma,43030,3,237,1,202.8,NSW NW/QLD SW,-26.57,148.79
+Emerald,35027,1,246,1,284.6,QLD Central,-23.53,148.16
+Condobolin,50052,5,234,1,207.8,NSW Central,-33.07,147.23
+Wellington,65028,4,235,1,213.6,NSW Vic Slopes,-32.8,148.8
+Dubbo,65012,2,238,1,216.4,NSW NE/QLD SE,-32.24,148.61
+Gilgandra,51018,2,238,1,216.4,NSW NE/QLD SE,-31.71,148.66
+Nyngan,51039,5,234,1,207.8,NSW Central,-31.55,147.2
+Coonamble,51010,3,237,1,202.8,NSW NW/QLD SW,-30.98,148.38
+Gunnedah,55023,2,238,1,216.4,NSW NE/QLD SE,-30.98,150.25
+Narrabri,54120,2,238,1,216.4,NSW NE/QLD SE,-30.34,149.76
+Walgett,52088,3,237,1,202.8,NSW NW/QLD SW,-30.04,148.12
+Moree,53048,2,238,1,216.4,NSW NE/QLD SE,-29.48,149.84
+Urana,74087,5,234,2,207.8,NSW Central,-35.33,146.03
+WaggaWagga,72150,4,235,2,213.6,NSW Vic Slopes,-35.16,147.46
+Yanco,74123,5,234,2,207.8,NSW Central,-34.61,146.42
+Merriwagga,75142,5,234,2,207.8,NSW Central,-33.92,145.52
+Parkes,65026,5,234,2,207.8,NSW Central,-33.14,148.16
+Longerenong,79028,6,245,2,182,SA Vic Bordertown ,-36.67,142.3
+Dookie,81013,4,235,2,213.6,NSW Vic Slopes,-36.37,145.7
+Glenlee,78014,6,245,2,182,SA Vic Bordertown ,-36.26,141.86
+Birchip,77007,8,249,2,180.1,SA Vic Mallee,-35.98,142.92
+Hopetoun,77018,6,245,2,182,SA Vic Bordertown ,-35.73,142.37
+Walpeup,76064,8,249,3,180.1,SA Vic Mallee,-35.12,142
+Pinnaroo,25015,8,249,3,180.1,SA Vic Mallee,-35.26,140.91
+Roseworthy,23020,7,253,3,223.6,SA Midnorth,-34.53,138.69
+Loxton,24024,8,249,3,180.1,SA Vic Mallee,-34.44,140.6
+Cummins,18023,7,253,3,223.6,SA Midnorth ,-34.27,135.73
+Waikerie,24018,8,249,3,180.1,SA Vic Mallee,-34.18,139.98
+Balaklava,21002,7,253,3,223.6,SA Midnorth ,-34.14,138.42
+Rudall,18075,8,249,3,180.1,SA Vic Mallee,-33.69,136.27
+PortPirie,21043,7,253,3,223.6,SA Midnorth ,-33.17,138.01
+Minnipa,18052,8,249,3,180.1,SA Vic Mallee,-32.84,135.15
+Ceduna,18042,8,249,3,180.1,SA Vic Mallee,-31.9,133.42
+Katanning,10579,10,264,4,243,WA Central,-33.69,117.56
+Esperance,9631,9,263,4,241.8,WA Sandplain,-33.61,121.78
+Ravensthorpe,10633,9,263,4,241.8,WA Sandplain,-33.58,120.05
+Nyabing,10619,10,264,4,243,WA Central,-33.54,118.15
+LakeGrace,10592,10,264,4,243,WA Central,-33.1,118.46
+SalmonGums,12071,9,263,4,241.8,WA Sandplain,-32.99,121.62
+Wickepin,10654,10,264,4,243,WA Central,-32.78,117.5
+Hyden,10568,10,264,4,243,WA Central,-32.44,118.9
+Corrigin,10536,10,264,4,243,WA Central,-32.33,117.87
+Narembeen,10612,11,263,4,237.2,WA Eastern,-32.07,118.4
+Cunderdin,10035,10,264,4,243,WA Central,-31.66,117.25
+Northam,10111,10,264,4,243,WA Central,-31.64,116.67
+Kellerberrin,10073,11,263,4,237.2,WA Eastern,-31.62,117.72
+Merredin,10093,11,263,4,237.2,WA Eastern,-31.48,118.28
+SouthernCross,12074,11,263,4,237.2,WA Eastern,-31.23,119.33
+WonganHills,8138,10,264,4,243,WA Central,-30.84,116.73
+Bencubbin,10007,11,263,4,237.2,WA Eastern,-30.81,117.86
+Badgingarra,9037,10,264,4,243,WA Central,-30.34,115.54
+Dalwallinu,8039,10,264,4,243,WA Central,-30.28,116.66
+Carnamah,8025,12,263,4,242,WA Northern,-29.69,115.89
+Morawa,8093,12,263,4,242,WA Northern,-29.21,116.01
+Geraldton,8051,12,263,4,242,WA Northern,-28.8,114.7
+Mullewa,8095,12,263,4,242,WA Northern,-28.54,115.51
